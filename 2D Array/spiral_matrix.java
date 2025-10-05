@@ -34,7 +34,7 @@ class Solution{
     }return ls;
     }
 }
-public class two2dmatrix{
+public class spiral_matrix{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int m = in.nextInt();
