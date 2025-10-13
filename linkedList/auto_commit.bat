@@ -1,5 +1,5 @@
 @echo off
-cd "C:\path\to\your\project"
+cd "C:\Users\omkar\OneDrive\Documents\DSA"
 git config user.name "omkarmishra07"
 git config user.email "omkar794mishra@gmail.com"
 
